@@ -1,0 +1,2 @@
+# BrainView
+This is a hololens app I created as a part of a learning solution for deep learning at Royal Solusoft. The app has a brain prefab that can be manipulated by the user as well as audio commands that the user can use to trigger the various regions of the brain. I also trained a deep learning model on google colab and deployed it as a web API to predict the mood of  any person in front of the Hololens camera.
